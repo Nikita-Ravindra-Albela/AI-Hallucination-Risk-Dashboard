@@ -1,7 +1,9 @@
 # AI-Hallucination-Risk-Dashboard
+<img width="559" height="80" alt="image" src="https://github.com/user-attachments/assets/612bf1a6-3baa-488e-870f-aaf56a8b34ea" />
+
 ## Overview
 
-As organizations increasingly adopt AI tools for business decision-making, a critical risk emerges: AI hallucinations — confident but incorrect or incomplete outputs that can silently influence high-impact decisions.
+As organizations increasingly adopt AI tools for business decision-making, a critical risk emerges: AI hallucinations confident but incorrect or incomplete outputs that can silently influence high-impact decisions.
 
 This project focuses on AI Governance from a business perspective, not a technical one.
 Instead of asking “Is the AI model accurate?”, it asks:
