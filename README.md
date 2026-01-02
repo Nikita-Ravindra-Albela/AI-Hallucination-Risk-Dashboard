@@ -165,7 +165,7 @@ This dashboard is designed for executive decision-making, not just reporting.
 
 ## Key Insights
 
-~35% of AI-influenced decisions showed hallucination risk
+35% of AI-influenced decisions showed hallucination risk
 
 High-impact strategic decisions had the highest risk concentration
 
