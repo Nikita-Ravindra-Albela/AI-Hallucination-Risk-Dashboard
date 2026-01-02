@@ -9,7 +9,7 @@ When does AI become dangerous for business decisions?
 
 Instead of evaluating AI models technically, the analysis quantifies business risk, revenue exposure, and governance gaps caused by AI usage.
 
-## AI Governance (Business Perspective)
+## AI Governance
 
 AI Governance ensures AI is used responsibly, safely, and within defined business boundaries.
 
