@@ -12,7 +12,7 @@ Instead of asking “Is the AI model accurate?”, it asks:
 
 Using simulated enterprise-scale data, this analysis quantifies:
 
-AI hallucination risk
+AI hallucination risk 
 
 Overconfidence in AI-generated insights
 
